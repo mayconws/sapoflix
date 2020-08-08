@@ -16,8 +16,19 @@
         {
           "titulo": "Kenpachi Zaraki vs. Nnoitra ",
           "url": "https://www.youtube.com/watch?v=AMLcE2pefA8"
-        }        
+        }       
       ]
+    }
+  ],
+  "categorias": [
+    {
+      "id": 2,
+      "titulo": "Naruto Shippuden",
+      "cor": "#ff6a00",
+      "link_extra": {
+        "text": "Naruto Shippuden - Melhores Lutas",
+        "url": "https://www.youtube.com/watch?v=SavhHnWla6c"
+      }
     }
   ]
 }

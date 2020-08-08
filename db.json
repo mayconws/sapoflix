@@ -5,8 +5,19 @@
       "titulo": "Bleach",
       "cor": "#ff6a00",
       "link_extra": {
-        "text": "Bleach - Opening 10 - Shojo S",
+        "text": "Bleach - Melhores Lutas",
         "url": "https://www.youtube.com/watch?v=b9vIpu0kAbE&t=4s"
+      }
+    }
+  ],
+  "categorias": [
+    {
+      "id": 2,
+      "titulo": "Naruto Shippuden",
+      "cor": "#ff6a00",
+      "link_extra": {
+        "text": "Naruto Shippuden - Melhores Lutas",
+        "url": "https://www.youtube.com/watch?v=SavhHnWla6c"
       }
     }
   ],
