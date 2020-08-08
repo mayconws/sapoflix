@@ -25,7 +25,13 @@
       "link_extra": {
         "text": "Naruto Shippuden - Melhores Lutas",
         "url": "https://www.youtube.com/watch?v=SavhHnWla6c"
-      }
+      },
+      "videos": [
+        {
+          "titulo": "Sasuke vs Killer Bee",
+          "url": "https://www.youtube.com/watch?v=Hgyf71oc5Ww"
+        }
+      ]
     }
   ]
 }
