@@ -3,60 +3,46 @@
     {
       "id": 1,
       "titulo": "Bleach",
-      "cor": "#ff6a00",
+      "cor": "orange",
       "link_extra": {
         "text": "Bleach - Melhores Lutas",
-        "url": "https://www.youtube.com/watch?v=b9vIpu0kAbE&t=4s"
+        "url": "https://www.youtube.com/watch?v=b9vIpu0kAbE"
       }
     },
     {
       "id": 2,
       "titulo": "Naruto Shippuden",
-      "cor": "#ff6a00",
+      "cor": "red",
       "link_extra": {
-        "text": "Naruto Shippuden - Melhores Lutas",
-        "url": "https://www.youtube.com/watch?v=SavhHnWla6c"
+        "text": "Naruto Shippuden - Lutas Lendárias",
+        "url": "https://www.youtube.com/watch?v=nPqNerNCRTA"
       }
     }
   ],
   "videos": [
     {
-      "id": 1,
-      "categoriaId": 1,
-      "titulo": "Bleach - Opening 10 - Shojo S",
-      "description": "Bleach - Opening 10 - Shojo S",
-      "url": "https://www.youtube.com/watch?v=b9vIpu0kAbE&t=4s"
-    },
-    {
-      "id": 2,
-      "categoriaId": 1,
-      "titulo": "Yamamoto vs Wonderweiss (Legendado PT-BR)",
-      "description": "Yamamoto vs Wonderweiss (Legendado PT-BR)",
-      "url": "https://www.youtube.com/watch?v=AzjlaXzsXfc&t=28s"
-    },
-    {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Kenpachi Zaraki vs. Nnoitra",
-      "description": "Kenpachi Zaraki vs. Nnoitra",
-      "url": "https://www.youtube.com/watch?v=AMLcE2pefA8"
+      "titulo": "Bleach Opening - 6 Shojo S",
+      "url": "https://www.youtube.com/watch?v=b9vIpu0kAbE"
     },
     {
-      "titulo": "Grimmjow VS Ichigo",
-      "url": "https://www.youtube.com/watch?v=DvVfcxpYaDA",
-      "categoriaId": 1,
-      "id": 4
-    },
-    {
-      "titulo": "Madara Vs. Aliança Shinobi ",
-      "url": "https://www.youtube.com/watch?v=nPqNerNCRTA",
+      "id": 4,
       "categoriaId": 2,
-      "id": 5
-    }
+      "titulo": "Madara vs Aliança Shinobi",
+      "description": "Madara vs Aliança Shinobi",
+      "url": "https://www.youtube.com/watch?v=nPqNerNCRTA"
+    },
     {
+      "id": 5,
+      "categoriaId": 2,
       "titulo": "Sasuke vs Killer Bee",
-      "url": "https://www.youtube.com/watch?v=Hgyf71oc5Ww",
-      "categoriaId": 2,
+      "url": "https://www.youtube.com/watch?v=Hgyf71oc5Ww"
+    },
+    {
+      "titulo": "Yamamoto vs Wonderweiss",
+      "url": "https://www.youtube.com/watch?v=AzjlaXzsXfc",
+      "categoriaId": 1,
       "id": 6
     }
   ]
